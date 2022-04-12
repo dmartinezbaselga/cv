@@ -1,6 +1,6 @@
 # Diego Martínez Baselga
-PhD student in University of Zaragoza
-diegomartinez@unizar.es
+- PhD student in University of Zaragoza
+- diegomartinez@unizar.es
 ![Image](src)
 
 ## Education
