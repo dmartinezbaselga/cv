@@ -1,7 +1,7 @@
 # Diego Martínez Baselga
 - PhD student in University of Zaragoza
 - diegomartinez@unizar.es
-![Image](DIEGO MARTINEZ.jpg)
+![Image](DIEGO_MARTINEZ.jpg)
 
 ## Education
 ### B.S. in Computer Engineering in University of Zaragoza (2016-2020)
