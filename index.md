@@ -8,7 +8,9 @@
 - Relevant subjects: Machine Learning, Artificial Intelligence, Systems Management, Computer Vision, Graphics, Image and Video Processing...
 - Bachelor Thesis: Anomaly detection with Prometheus.
 - Grade point average: 8.77/10
+
 ### Erasmus Program in Tampere University (2019-2020)
+
 ### M.S. in Robotics, Graphics and Computer Vision (2020-2022)
 - Relevant subjects: Autonomous Robots, Computer Vision, Machine Learning, Modeling and Simulation of Appearance, Programming and Architecture of Computing Systems, Computational Imaging, Simultaneous Localization and Mapping, Advanced SLAM, Assistive Robotics, Multirobot Systems..
 - Master Thesis: Robot navigation in dynamic environments using learning based techniques
@@ -17,8 +19,10 @@
 ## Experience
 ### Research Assistant in Tampere University (2019-2020)
 - Research assistant in the Cloud and Web Engineering Research Group (CloWeE).
+
 ### Collaboration grant in University of Zaragoza (2020)
 - The development of planning and navigation techniques with several robots in highly dynamic scenarios, in order to avoid collision while minimising the time to reach the goal. The goal of this grant was progressing in one of the research lines of the Robotics, Perception and Real Time (RoPeRT) group of the University of Zaragoza, where only scenarios with one active agent had been considered. Several techniques of sharing the decision making process were explored in different scenarios, using LIDAR sensors in real ground robots. The Robotics Operating System (ROS) was used.
+
 ### Intenship in University of Zaragoza (2020-2021)
 - The development of a distributed software architecture in ROS, defining a complete navigation stack. The implementation of robot navigation techniques based on deep reinforcement learning. The system may include different numbers of agents (robots or even people). The implementation of autonomous motion techniques, navigation and autonomous decision making for active agents, by using 2D LIDAR sensors to predict the localization and velocity of the rest of elements in the scenario. The evaluation was performed with real ground robots.
 
